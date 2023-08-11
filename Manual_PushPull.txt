@@ -1,0 +1,18 @@
+****PUSH****
+
+
+C:\Users\P. Digital Marketing\Desktop\New folder\Gitlearn>git add three.txt
+
+C:\Users\P. Digital Marketing\Desktop\New folder\Gitlearn>git commit -m "added three.txt"
+[main ac32a99] added three.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 three.txt
+
+C:\Users\P. Digital Marketing\Desktop\New folder\Gitlearn>git branch -M main
+
+C:\Users\P. Digital Marketing\Desktop\New folder\Gitlearn>git push -u origin main
+
+
+
+****PULL****
+C:\Users\P. Digital Marketing\Desktop\New folder\Gitlearn>git pull
